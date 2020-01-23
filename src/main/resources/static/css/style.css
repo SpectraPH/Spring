@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(226, 226, 226);
+}
+
+#content-block{
+    background-color: white;
+    border: 1px dotted black;
+}
+
+#page-header{
+    border: 1px dotted black;
+}
+
+#text-block{
+    background-color: white;
+    border: 1px dotted black;
+    padding: 15px;
+}
+
+#content-img{
+    height: 300px;
+    width: 300px;
+}
+
+.content-img{
+    height: 300px;
+    width: 300px;
+}
+
+.file {
+    visibility: hidden;
+    position: absolute;
+}
+
+#form-image-prev{
+    width: 300px;
+}
+#form-text-prev{
+    width: 600px;
+}
+
+#image-form{
+}
+
+.content{
+    width: 900px;
+}
